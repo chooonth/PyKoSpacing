@@ -60,6 +60,11 @@ To install from GitHub, use
 
     pip install git+https://github.com/haven-jeon/PyKoSpacing.git
 
+To install with command line
+```
+cd PyKoSpacing/
+python setup.py install
+```  
 
 #### Example 
 
