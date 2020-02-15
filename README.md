@@ -61,6 +61,7 @@ To install from GitHub, use
     pip install git+https://github.com/haven-jeon/PyKoSpacing.git
 
 To install with command line
+- setup.py 내용에서 tensorflow 버전 조건이 있는데 이걸 빼야 실행 가능
 ```
 cd PyKoSpacing/
 python setup.py install
